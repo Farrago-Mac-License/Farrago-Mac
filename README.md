@@ -1,7 +1,7 @@
 # Farrago – Soundboard & Audio Playback
 
 <div align="center">  
-  <img src="https://static.macupdate.com/products/60425/m/phpw6hfak-logo.png?v=1681895066" width="250" alt="Farrago Logo"/>  
+  <img src="https://i0.wp.com/rogueamoeba.com/global/images/icons/256/farrago.png?ssl=1" width="250" alt="Farrago Logo"/>  
 </div>  
 
 <br>  
